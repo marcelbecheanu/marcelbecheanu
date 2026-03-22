@@ -1,38 +1,14 @@
-<h1 align="center">Marcel Becheanu</h1>
-<p align="center">
-  Software Engineer • Backend • AI Systems
-</p>
-
-<p align="center">
-  <a href="mailto:marcel.becheanu@outlook.pt">Email</a> •
-  <a href="#">LinkedIn</a>
-</p>
-
----
-
-## About
-
-Backend-focused software engineer with interest in high-performance systems, AI and scalable architectures.
-
-- ⚙️ Java, Node.js, distributed systems  
-- 🧠 AI, vector search, data processing  
-- 📍 Portugal  
-
----
-
-## Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=marcelbecheanu&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelbecheanu&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=marcelbecheanu&theme=dark&hide_border=true&background=00000000" />
-</p>
-
----
-
-## Stack
-
-**Languages**
+<div align="center">
+  <img  height="312em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelbecheanu&theme=dark"/>
+</div>
+<div align="center">
+  <a href="https://github.com/marcelbecheanu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marcelbecheanu&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelbecheanu&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=7"/>
+</div>
+  
+<div align="center">
+  <a><img src="https://img.shields.io/badge/-+351 964 770 743-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href="mailto:marcel.becheanu@outlook.pt"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcel-becheanu-b55506184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
